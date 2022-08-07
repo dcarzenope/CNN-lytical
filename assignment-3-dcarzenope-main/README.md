@@ -1,11 +1,6 @@
 # Assignment-3
-Convolutional Neural Networks for CIFAR-10 in PyTorch.
+### Convolutional Neural Network for CIFAR-10 in PyTorch
 
-## Submission Instuctions
+Phase: 06 June 2022 - 10 June 2022
 
-* Work out your solution in the given Notebook(```.ipynb```) and commit the modified Notebook(```.ipynb```)
-* Also push the ```.py``` class files for the Module and the Dataset and ```.pt``` file as instructed in the latter part of the notebook
-* We suggest you to use Google Colab, since it is very handy.
-
-## Deadline
-10th of June, 2022
+Files Included - Overall Python Code Notebook, Model Code File, Trained Model
