@@ -1,4 +1,4 @@
-# CNN-lytical-Submission-Files
+# CNN-lytical
  
 This is the repository for the CNN-lytical Project under Seasons of Code, IIT Bombay.
 
